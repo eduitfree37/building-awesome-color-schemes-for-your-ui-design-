@@ -1,0 +1,5 @@
+# Building awesome Color Schemes for your UI Design Projects
+
+The significance of colors in conveying information cannot be overstated. When considering the color scheme for dashboard designs, it's important to recognize that colors play a crucial role in interpreting and communicating data. A well-thought-out color scheme is essential for ensuring that your message is clearly understood. Disordered color schemes in website or mobile app design can lead to user confusion and misinterpretation. It's worth noting that colors hold significant sway over the emotions and psychology of users. Therefore, in the development of any color scheme, it's vital to consider the impact it may have on the emotional and psychological response of users. 
+
+[Detail](https://eduitfree.com/courses/building-awesome-color-schemes-for-your-ui-design-projects)
